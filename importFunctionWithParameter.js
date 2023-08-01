@@ -1,1 +1,1 @@
-const square = require("./importFunctionWithParameter.js");
+const square = require("./exportFunctionWithParameter.js");
